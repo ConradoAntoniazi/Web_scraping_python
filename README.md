@@ -8,8 +8,6 @@ O programa será executado via terminal e terá três funcionalidades:
 - Será solicitado o email e o nome do usuário que deseja receber diariamente o email com o cardápio do dia.
 ### 02. Consulta isolada do cardápio:
 - Caso o usuário não tiver interesse em receber diariamente o cardápio, há a possibilidade de realizar consultas isoladas.
-### 03. Consulta de notícias:
-- Essa funcionalidade tem como objetivo extrair notícias recentes relacionadas com palavras fornecidas pelo usuário.
 
 ## Funcionamento:
 Para o programa funcionar adequadamente é preciso instalar as bibliotecas requests e Beautifulsoup:
