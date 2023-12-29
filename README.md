@@ -1,6 +1,6 @@
 # Web-scraping UFES
 ## Descrição:
-O programa tem como objetivo realizar a raspagem de dados da página da UFES a fim de extrair notícias e o cardápio do almoço e jantar do Restaurante Univesitário (RU) do dia. Além disso, serão armazenados os emails de pessoas interessadas em receber diariamente o cardápio, que será enviado todos os dias letivos pela manhã para os cadastrados.
+O programa tem como objetivo realizar a raspagem de dados da página da UFES a fim de extrair o cardápio do almoço e jantar do Restaurante Univesitário (RU) do dia. Além disso, serão armazenados os emails de pessoas interessadas em receber diariamente o cardápio, que será enviado todos os dias letivos pela manhã para os cadastrados.
 
 ## Funcionalidades:
 O programa será executado via terminal e terá três funcionalidades:
